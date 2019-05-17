@@ -1,11 +1,11 @@
 # Site settings
 author: Michelle Moon
-title: 
+title: Code Musings
 header-img: img/home-bg.png
 email: michellemoon236@gmail.com
 copyright_name: Michelle Moon
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Reflections on my coding learning experience
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  michellemoon236
