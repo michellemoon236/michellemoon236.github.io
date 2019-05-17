@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "At the Starting Line"
-date:       2019-05-17 20:40:30 +0000
+date:       2019-05-17 16:40:31 -0400
 permalink:  at_the_starting_line
 ---
 
