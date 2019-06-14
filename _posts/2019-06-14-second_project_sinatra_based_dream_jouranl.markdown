@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Second Project: Sinatra based Dream Jouranl"
+title:      "Second Project: Sinatra based Dream Journal"
 date:       2019-06-14 15:52:02 -0400
 permalink:  second_project_sinatra_based_dream_jouranl
 ---
