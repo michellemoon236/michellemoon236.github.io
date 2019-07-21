@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Third Project: Ruby on Rails based Project Align"
-date:       2019-07-21 04:19:32 +0000
+date:       2019-07-21 00:19:33 -0400
 permalink:  third_project_ruby_on_rails_based_project_align
 ---
 
